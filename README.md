@@ -3,7 +3,7 @@ A code repo for JavaScript while learning it.
 
 # Lecture 1: Variables and Data Types
 __const__ = can't be re-assigned a value and can't be declared again (block scope)\
-__let__ = can be re-assigned a value but can't be declared again (block scope)
+__let__ = can be re-assigned a value but can't be declared again (block scope)\
 __var__ = it can be re-assigned a value and it can also be declared again (Global scope)
 
 => Never use var in your code instead of let because of block and functional scope issues.
@@ -29,8 +29,8 @@ Hoisting - Yes without default value, reference error will come
 console.table([group of variables you want to show in tabular form])
 
 # Lecture 2: Datatypes and ECMA standards
-__number__ = 2 ^ 53 \
-__bigint__ = for large numbers \
+__number = __ 2 ^ 53 \
+__bigint =__ for large numbers \
 __string__ = "assembly of characters" \
 __boolean__ = true or false \
 __null__ = stand alone value (type = object) \
