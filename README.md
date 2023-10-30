@@ -29,10 +29,10 @@ Hoisting - Yes without default value, reference error will come
 console.table([group of variables you want to show in tabular form])
 
 # Lecture 2: Datatypes and ECMA standards
-__number = __ 2 ^ 53 \
+__number =__ 2 ^ 53 \
 __bigint =__ for large numbers \
-__string__ = "assembly of characters" \
-__boolean__ = true or false \
-__null__ = stand alone value (type = object) \
-__undefined__ = kindda place holder for a value which is not defined yet (type = undefined) \
-__symbol__ = uniquness
+__string =__ "assembly of characters" \
+__boolean =__ true or false \
+__null =__ stand alone value (type = object) \
+__undefined =__ kindda place holder for a value which is not defined yet (type = undefined) \
+__symbol =__ uniquness
