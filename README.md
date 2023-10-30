@@ -1,6 +1,6 @@
 # JavaScript
 A code repo for JavaScript while learning it.
-##
+
 # Lecture  # 1: Variables and Data Types
 const = can't be re-assigned a value and can't be declared again  (block scope)
 let = can be re-assigned a value but can't be declared again (block scope)
@@ -26,4 +26,3 @@ Scope - Global, Local, Block
 Redeclaration && Reassignment - No/No
 Hoisting - Yes without default value, reference error will come
 
-##
