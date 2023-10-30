@@ -2,9 +2,11 @@
 A code repo for JavaScript while learning it.
 
 # Lecture 1: Variables and Data Types
-const = can't be re-assigned a value and can't be declared again  (block scope)
+const = can't be re-assigned a value and can't be declared again (block scope)
+
 let = can be re-assigned a value but can't be declared again (block scope)
-var = it can be re-assigned a value and it can also be declared again  (Global scope)
+
+var = it can be re-assigned a value and it can also be declared again (Global scope)
 
 => Never use var in your code instead of let because of block and functional scope issues.
 
@@ -29,7 +31,7 @@ Hoisting - Yes without default value, reference error will come
 console.table([group of variables you want to show in tabular form])
 
 # Lecture 2: Datatypes and ECMA standards
-number = 2 ^ 53
+number = 2 ^ 53 \n
 bigint = for large numbers
 string = "assembly of characters"
 boolean = true or false
