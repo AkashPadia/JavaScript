@@ -38,14 +38,14 @@ __undefined =__ kindda place holder for a value which is not defined yet (type =
 __symbol =__ uniquness
 
 # Lecture 3: Datatype conversion
-__Number conversion__
+__Number conversion__ \
  "33" => 33 \
  "33abc" => NaN (Not a Number) \
  true => 1, false => 0 \
  null => 0 \
- undefined => NaN \
+ undefined => NaN
 
-__Boolean conversion__
+__Boolean conversion__ \
  1 => true, 0 => false \
  "" => false \
- "abc" => true \
+ "abc" => true
