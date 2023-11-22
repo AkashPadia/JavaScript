@@ -36,3 +36,16 @@ __boolean =__ true or false \
 __null =__ stand alone value (type = object) \
 __undefined =__ kindda place holder for a value which is not defined yet (type = undefined) \
 __symbol =__ uniquness
+
+# Lecture 3: Datatype conversion
+__Number conversion__
+ "33" => 33
+ "33abc" => NaN (Not a Number)
+ true => 1, false => 0
+ null => 0
+ undefined => NaN
+
+__Boolean conversion__
+ 1 => true, 0 => false
+ "" => false
+ "abc" => true
