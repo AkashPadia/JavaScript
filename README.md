@@ -39,13 +39,13 @@ __symbol =__ uniquness
 
 # Lecture 3: Datatype conversion
 __Number conversion__
- "33" => 33
- "33abc" => NaN (Not a Number)
- true => 1, false => 0
- null => 0
- undefined => NaN
+ "33" => 33 \
+ "33abc" => NaN (Not a Number) \
+ true => 1, false => 0 \
+ null => 0 \
+ undefined => NaN \
 
 __Boolean conversion__
- 1 => true, 0 => false
- "" => false
- "abc" => true
+ 1 => true, 0 => false \
+ "" => false \
+ "abc" => true \
