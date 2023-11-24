@@ -51,8 +51,8 @@ __Boolean conversion__ \
  "abc" => true
 
  # Lecture 3.2: Operations
- Link to study
-https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion \
+ Link to study \
+https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
 
