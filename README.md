@@ -37,7 +37,7 @@ __null =__ stand alone value (type = object) \
 __undefined =__ kindda place holder for a value which is not defined yet (type = undefined) \
 __symbol =__ uniquness
 
-# Lecture 3: Datatype conversion
+# Lecture 3.1: Datatype conversion
 __Number conversion__ \
  "33" => 33 \
  "33abc" => NaN (Not a Number) \
