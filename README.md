@@ -49,3 +49,10 @@ __Boolean conversion__ \
  1 => true, 0 => false \
  "" => false \
  "abc" => true
+
+ # Lecture 3.2: Operations
+ Link to study
+https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion \
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+
