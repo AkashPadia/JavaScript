@@ -94,16 +94,16 @@ var x=0; /*var have no type */ \
 x="hello"; /*values have types */ \
 console.log(x); /*var changes type dynamically */
 
-PRIMITIVE : \
-- string => string \
-- number => number \
-- boolean => boolean \
-- null => null \
-- undefined => undefined \
-- symbol => symbol \
-- bigint => bigint \
+PRIMITIVE :
+- string => string
+- number => number
+- boolean => boolean
+- null => null
+- undefined => undefined
+- symbol => symbol
+- bigint => bigint
 
-NON PRIMITIVE (Reference) : \
-- array => object \
-- object => object \
-- function => function \
+NON PRIMITIVE (Reference) :
+- array => object
+- object => object
+- function => function
