@@ -117,3 +117,9 @@ call by value (string,number,boolean,null,undefined,BigInt,symbol) -> __Stack me
 
 __Reference/Non primitive datatypes__ \
 call by reference (array,object, function) -> __heap memory__
+
+Primitive dataType goes in stack memory; and it provides copy of that element.
+So when we change something (through assigned variable) it gets changed in copy of element not in original.
+
+Non primitive dataType get stored in HEAP memory; and it gives reference value to assigned elements.
+So when assigned variable makes changes it changes the both values(original and assigned one. 
