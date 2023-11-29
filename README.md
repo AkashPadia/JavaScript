@@ -112,8 +112,8 @@ NON PRIMITIVE (Reference) :
 # Lecture 5: Stack and Heap memory in javascript
 Datatypes are based on memory allocation
 
-__Primitive datatypes->__
+__Primitive datatypes__ \
 call by value (string,number,boolean,null,undefined,BigInt,symbol) -> __Stack memory__
 
-__Reference/Non primitive datatypes__
+__Reference/Non primitive datatypes__ \
 call by reference (array,object, function) -> __heap memory__
