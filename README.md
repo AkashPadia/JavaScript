@@ -121,3 +121,6 @@ call by reference (array,object, function) -> __heap memory__
 __Primitive datatype__ goes in stack memory; and it provides copy of that element. So when we change something (through assigned variable) it gets changed in copy of element not in original.
 
 __Non primitive datatype__ get stored in HEAP memory; and it gives reference value to assigned elements. So when assigned variable makes changes it changes the both values(original and assigned one. 
+
+# Lecture 6: Strings in javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
