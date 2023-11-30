@@ -124,3 +124,6 @@ __Non primitive datatype__ get stored in HEAP memory; and it gives reference val
 
 # Lecture 6: Strings in javascript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+
+# Lecture 7: Numbers and Maths in javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
