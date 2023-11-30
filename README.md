@@ -129,4 +129,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 
 # Lecture 8: Date and Time in javascript
+__Date:__ Date is an object in javascript.\
+__JavaScript__ stores dates as number of milliseconds since January 01, 1970
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
