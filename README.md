@@ -133,3 +133,6 @@ __Date:__ Date is an object in javascript.\
 __JavaScript__ stores dates as number of milliseconds since January 01, 1970
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+
+# Lecture 9: Arrays in javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
