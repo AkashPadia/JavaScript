@@ -137,8 +137,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 # Lecture 9: Arrays in javascript
 - JavaScript arrays are resizable and can contain a mix of different data types.
 - JavaScript arrays are not associative arrays and so, array elements cannot be accessed using arbitrary strings as indexes, but must be accessed using nonnegative integers as indexes.
--JavaScript arrays are zero-indexed: the first element of an array is at index 0.
--JavaScript array-copy operations create shallow copies.
+- JavaScript arrays are zero-indexed: the first element of an array is at index 0.
+- JavaScript array-copy operations create shallow copies.
 
 __Shallow Copy__ A shallow copy of an arrays or object is one where they both have the same reference in memory. Array/object values are copied by reference instead of by value. As a result, when you change either the source or the copy, you may also cause the other object to change too.
 
