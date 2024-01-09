@@ -144,4 +144,13 @@ __Shallow Copy__ A shallow copy of an arrays or object is one where they both ha
 
 __Deep Copy__ A deep copy of an arrays or object is one where they both have the different reference in memory. Array/object values are copied by value instead of by reference. As a result, when you change either the source or the copy, you can be assured you're not causing the other object to change too.
 
+__Array Methods__
+- push - insert element to the end of an array
+- pop - removes last element of an array
+- unshift - insert element at the start of an array
+- shift - removes first element of an array
+- join - adds all elements of an array to string
+- slice - returns a copy of a section of an array with in a provided range
+- splice - removes an elements from an original array and returns new array of removed elements.
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
