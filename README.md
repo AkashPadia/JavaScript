@@ -152,5 +152,10 @@ __Array Methods__
 - join - adds all elements of an array to string
 - slice - returns a copy of a section of an array with in a provided range
 - splice - removes an elements from an original array and returns new array of removed elements.
+- concat - combine two or more arrays and retuns new array without modifying existing array
+- flat - returns new array with all sub-array element concatinated into specified depth
+- isArray - check if provided argument is array or not
+- from - create an array from argument
+- of - returns new array from set of elements
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
