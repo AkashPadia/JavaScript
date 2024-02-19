@@ -159,3 +159,10 @@ __Array Methods__
 - of - returns new array from set of elements
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+# Lecture 10: Objects in javascript
+Their are 2 ways to declare objects
+1. Construtor method - const marvelUser = new Object()
+2. Literals method - marvelUser = {}
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
