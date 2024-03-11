@@ -162,7 +162,17 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 # Lecture 10: Objects in javascript
 Their are 2 ways to declare objects
-1. Construtor method - const marvelUser = new Object()
-2. Literals method - marvelUser = {}
+1. Construtor method - const marvelUser = new Object() //Singleton object
+2. Literals method - marvelUser = {} //Non-Singleton ojject
+
+__Object Methods__
+- assign - Copy the values of all of the enumerable own properties from one or more source objects to a target object. Returns the target object.
+- keys - Returns the names of the enumerable string properties and methods of an object.
+- values - Returns an array of values of the enumerable properties of an object.
+- entries - Returns an array of key/values of the enumerable properties of an object.
+- hasOwnProperty - Determines whether an object has a property with the specified name.
+- freeze - Prevents the modification of existing property attributes and values, and prevents the addition of new properties.
+
+__Object Destructuring__ is used to make it easy to create variables from an object's properties.
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
