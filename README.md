@@ -86,6 +86,10 @@ console.log(undefined == 0); //Output: false \
 console.log(undefined >= 0); //Output: false \
 //All three outputs were false because undefined can't change into number in these situations.
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
+
 # Data types of javascript summary
 
 __JavaScript__ is a dynamically typed language. This means that variables do not have to be declared with a specific type, and their type can change at runtime.
@@ -108,6 +112,8 @@ NON PRIMITIVE (Reference) :
 - object => object
 - function => function
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
 
 # Lecture 5: Stack and Heap memory in javascript
 Datatypes are based on memory allocation
@@ -121,6 +127,10 @@ call by reference (array,object, function) -> __heap memory__
 __Primitive datatype__ goes in stack memory; and it provides copy of that element. So when we change something (through assigned variable) it gets changed in copy of element not in original.
 
 __Non primitive datatype__ get stored in HEAP memory; and it gives reference value to assigned elements. So when assigned variable makes changes it changes the both values(original and assigned one. 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop
 
 # Lecture 6: Strings in javascript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
@@ -176,3 +186,6 @@ __Object Methods__
 __Object Destructuring__ is used to make it easy to create variables from an object's properties.
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+
+# Lecture 11: Functions
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
