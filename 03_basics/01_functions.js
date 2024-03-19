@@ -24,3 +24,10 @@ function loggedInUserMessage(username) {
 }
 
 console.log(loggedInUserMessage("Thor"));
+
+function calculateCartValue(...num1) {
+  return num1;
+}
+
+//function with rest operator
+console.log(calculateCartValue(100, 200, 300));
