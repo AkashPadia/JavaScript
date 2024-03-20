@@ -205,7 +205,7 @@ Types of functions
 
 In Arrow function if we use {} then we have to use return, but if () used then return not needed.\
 
-If you want to write 2 IIFE in file. Then add semicolon(;) at the end of first IIFF \
+If you want to write two IIFE in file. Then add semicolon(;) at the end of first IIFF \
 (function () {})();
 (function functionName(){ })();
 
