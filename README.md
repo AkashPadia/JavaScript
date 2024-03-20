@@ -188,7 +188,22 @@ __Object Destructuring__ is used to make it easy to create variables from an obj
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 
 # Lecture 11: Functions
-  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
+Types of functions
+- Function declaration traditional way
+  function functionName(){}
+- Function Expression
+  const functionName = function(){}
+- Immediately Invoked Function Expressions
+  (function () {})();
+- Arrow function
+  const functionName = () => {};
+  const functionName = (param1, param2) => param1 + param2;
+  const functionName = (param1, param2) => (param1 + param2);
+  const functionName = () => ({name: "YourName"});
+
+In Arrow function if we use {} then we have to use return, but if () used then return not needed.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
 
 # Lecture 12: Scopes
-  https://developer.mozilla.org/en-US/docs/Glossary/Scope
+https://developer.mozilla.org/en-US/docs/Glossary/Scope
