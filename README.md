@@ -224,6 +224,6 @@ IIFEs are used in JavaScript for several reasons:
 (function functionName(){ })(); //Named IIFE \
 (() => {})(); //IIFE
 
-If you want to write two IIFE in file. Then add semicolon(;) at the end of first IIFF \
+If you want to write __two IIFE__ in file. Then add semicolon(;) at the end of __first IIFE__ \
 (function () {})(); \
 (function functionName(){ })();
