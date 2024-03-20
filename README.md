@@ -220,10 +220,10 @@ IIFEs are used in JavaScript for several reasons:
 - __Run code immediately__: Useful for initialization tasks or ensuring execution on page load.
 - __Control 'this' behavior__: Bind 'this' explicitly within the IIFE for specific scenarios.
 
-(function () {})();
-(function functionName(){ })(); //Named IIFE
+(function () {})(); \
+(function functionName(){ })(); //Named IIFE \
 (() => {})(); //IIFE
 
 If you want to write two IIFE in file. Then add semicolon(;) at the end of first IIFF \
-(function () {})();
+(function () {})(); \
 (function functionName(){ })();
