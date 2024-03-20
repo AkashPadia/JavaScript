@@ -189,13 +189,13 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 # Lecture 11: Functions
 Types of functions
-- Function declaration traditional way
+- Function declaration traditional way \
   function functionName(){}
-- Function Expression
+- Function Expression \
   const functionName = function(){}
-- Immediately Invoked Function Expressions
+- Immediately Invoked Function Expressions \
   (function () {})();
-- Arrow function
+- Arrow function \
   const functionName = () => {}; \
   const functionName = (param1, param2) => param1 + param2; \
   const functionName = (param1, param2) => (param1 + param2); \
