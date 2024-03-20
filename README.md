@@ -205,5 +205,7 @@ In Arrow function if we use {} then we have to use return, but if () used then r
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
 # Lecture 12: Scopes
 https://developer.mozilla.org/en-US/docs/Glossary/Scope
