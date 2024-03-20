@@ -195,13 +195,19 @@ Types of functions
   const functionName = function(){}
 - Immediately Invoked Function Expressions \
   (function () {})();
+  (function functionName(){ })(); //Named IIFE
 - Arrow function \
   const functionName = () => {}; \
   const functionName = (param1, param2) => param1 + param2; \
   const functionName = (param1, param2) => (param1 + param2); \
   const functionName = () => ({name: "YourName"}); \
+  (() => {})(); //IIFE
 
-In Arrow function if we use {} then we have to use return, but if () used then return not needed.
+In Arrow function if we use {} then we have to use return, but if () used then return not needed.\
+
+If you want to write 2 IIFE in file. Then add semicolon(;) at the end of first IIFF \
+(function () {})();
+(function functionName(){ })();
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
 
