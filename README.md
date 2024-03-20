@@ -189,3 +189,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 # Lecture 11: Functions
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
+
+# Lecture 12: Scopes
+  https://developer.mozilla.org/en-US/docs/Glossary/Scope
