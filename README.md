@@ -196,10 +196,10 @@ Types of functions
 - Immediately Invoked Function Expressions
   (function () {})();
 - Arrow function
-  const functionName = () => {};
-  const functionName = (param1, param2) => param1 + param2;
-  const functionName = (param1, param2) => (param1 + param2);
-  const functionName = () => ({name: "YourName"});
+  const functionName = () => {}; \
+  const functionName = (param1, param2) => param1 + param2; \
+  const functionName = (param1, param2) => (param1 + param2); \
+  const functionName = () => ({name: "YourName"}); \
 
 In Arrow function if we use {} then we have to use return, but if () used then return not needed.
 
